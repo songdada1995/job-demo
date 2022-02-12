@@ -81,7 +81,7 @@
     </update>
 
     <insert id="insertJob" parameterType="com.example.jobdemo.entity.SysJob" useGeneratedKeys="true"
-            keyProperty="jobId">
+			keyProperty="jobId">
         insert into sys_job(
         <if test="jobId != null and jobId != 0">job_id,</if>
         <if test="jobName != null and jobName != ''">job_name,</if>

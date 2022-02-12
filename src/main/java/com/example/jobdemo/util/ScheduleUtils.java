@@ -7,6 +7,8 @@ import org.quartz.*;
 
 /**
  * 定时任务工具类
+ *
+ * @author ruoyi
  */
 public class ScheduleUtils {
     /**

@@ -4,6 +4,8 @@ import com.example.jobdemo.util.StringUtils;
 
 /**
  * 分页数据
+ *
+ * @author ruoyi
  */
 public class PageDomain {
     /**

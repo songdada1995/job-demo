@@ -2,6 +2,8 @@ package com.example.jobdemo.exception;
 
 /**
  * 基础异常
+ *
+ * @author ruoyi
  */
 public class BaseException extends RuntimeException {
     private static final long serialVersionUID = 1L;
