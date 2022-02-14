@@ -8,3 +8,5 @@
 ruoyi-cloud里面提供了quartz的常用操作，增删改查操作定时任务，日常够用。
 
 建议MySQL5.7
+
+若依演示地址：http://vue.ruoyi.vip/login?redirect=%2Findex
